@@ -1,5 +1,4 @@
 # hello-world
-# hello-world
 Hello MI BROTHA!
 
 Nasmaste, Indian here, I am a very good basketball player and i enjoy coding ;)
